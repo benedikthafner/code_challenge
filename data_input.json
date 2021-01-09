@@ -1,0 +1,86 @@
+{
+    "products":[
+        {
+            "id": 0,
+            "name": "Notebook Buero 13",
+            "number": 205,
+            "weight": 2451,
+            "utility": 40
+        },
+        {
+            "id": 1,
+            "name": "Notebook Buero 14",
+            "number": 420,
+            "weight": 2978,
+            "utility": 35
+        },
+        {
+            "id": 2,
+            "name": "Notebook outdoor",
+            "number": 450,
+            "weight": 3625,
+            "utility": 80
+        },
+        {
+            "id": 3,
+            "name": "Mobiltelefon Buero",
+            "number": 60,
+            "weight": 717,
+            "utility": 30
+        },
+        {
+            "id": 4,
+            "name": "Mobiltelefon Outdoor",
+            "number": 157,
+            "weight": 988,
+            "utility": 60
+        },
+        {
+            "id": 5,
+            "name": "Mobiltelefon Heavy Duty",
+            "number": 220,
+            "weight": 1220,
+            "utility": 65
+        },
+        {
+            "id": 6,
+            "name": "Tablet Buero klein",
+            "number": 620,
+            "weight": 1405,
+            "utility": 40
+        },
+        {
+            "id": 7,
+            "name": "Tablet Buero gross",
+            "number": 250,
+            "weight": 1455,
+            "utility": 40
+        },
+        {
+            "id": 8,
+            "name": "Tablet outdoor klein",
+            "number": 540,
+            "weight": 1690,
+            "utility": 45
+        },
+        {
+            "id": 9,
+            "name": "Tablet outdoor gross",
+            "number": 370,
+            "weight": 1980,
+            "utility": 68
+        }],
+    "_meta": {
+        "max_weight": 1100000,
+        "trucks": [
+            {
+                "id":0,
+                "driver_weight": 72400
+            },
+            {
+                "id":1,
+                "driver_weight": 85700
+            }
+        ]
+    }
+}
